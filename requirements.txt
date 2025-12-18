@@ -1,0 +1,5 @@
+flask
+cloudscraper==1.2.58
+beautifulsoup4
+requests
+gunicorn
